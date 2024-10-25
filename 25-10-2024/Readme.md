@@ -12,4 +12,10 @@ I’ve always heard that AI engineers start off with Andrew Ng, even before gene
 
 I have no idea if this is the right choice, but I’ll put down my review here once I’m done.
 
-Stay tuned.
+### Progress Updates:
+
+- **25-10-2024, 2:25 PM:** Just completed watching the introduction video.
+
+  **My thoughts:** This course is structured to work alongside an LLM, definitely not what I was expecting. I was hoping for core Python, basic NLP, numpy, and more hands-on programming.
+
+  Despite this, I’ve decided to complete it to get a full grasp. Let’s see where it goes.

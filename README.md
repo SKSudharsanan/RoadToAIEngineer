@@ -36,3 +36,5 @@ This repo will serve as a comprehensive record of my journey. I'll be updating i
 - Roadblocks and how I overcame them
 
 Follow along as I rebuild my developer mindset and push towards becoming an AI engineer.
+
+Note: I’m currently using ChatGPT to write this documentation. I’m a bit skeptical about my grammar and spelling, but the tone here is definitely mine. If you’re reading this, don’t use an AI checker to determine if it’s written by AI or not.

@@ -1,4 +1,4 @@
-# Day1 - Road to AI Engineer
+# Road to AI Engineer
 
 It is 25-10-2024.
 
@@ -19,3 +19,10 @@ I have no idea if this is the right choice, but I’ll put down my review here o
   **My thoughts:** This course is structured to work alongside an LLM, definitely not what I was expecting. I was hoping for core Python, basic NLP, numpy, and more hands-on programming.
 
   Despite this, I’ve decided to complete it to get a full grasp. Let’s see where it goes.
+
+- **25-10-2024, 2:40 PM:** Just finished watching the second video of the course, which covered about what is computer programming?
+
+  **Key takeaways:**
+  - Andrew Ng explained what computer programming is and its role in AI.
+  - The combination of programming + AI is considered a superpower.
+  - Python is the most popular programming language and is used almost everywhere—from self-driving cars to chatbots and even smart agriculture.
